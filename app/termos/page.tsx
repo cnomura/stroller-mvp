@@ -1,0 +1,1 @@
+export default () => <main className="p-6">Termos...</main>

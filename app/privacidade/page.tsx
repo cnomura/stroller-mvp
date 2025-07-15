@@ -1,0 +1,1 @@
+export default () => <main className="p-6">Privacidade...</main>
